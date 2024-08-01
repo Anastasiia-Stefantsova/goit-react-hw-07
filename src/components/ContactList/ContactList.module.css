@@ -1,0 +1,17 @@
+ul {
+    list-style-type: none;
+}
+
+.listItem {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 0;
+    margin-left: 120px;
+}
+
+.contactItem {
+    border: 2px solid black;
+    border-radius: 4px;
+    width: 300px;
+}
